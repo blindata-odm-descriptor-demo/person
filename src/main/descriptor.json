@@ -22,7 +22,7 @@
       "displayName" : "databricks",
       "description" : "",
       "promises" : {
-        "platform" : null,
+        "platform" : "Databricks:databrickscore",
         "api" : {
           "fullyQualifiedName" : "",
           "name" : "persondatabricksApi",
