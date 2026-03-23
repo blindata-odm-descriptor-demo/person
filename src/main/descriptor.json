@@ -1,0 +1,19 @@
+{
+  "dataProductDescriptor" : "1.0.0",
+  "info" : {
+    "fullyQualifiedName" : "urn:dpds:crifPlayground:dataproducts:person:1",
+    "domain" : "test",
+    "name" : "person",
+    "displayName" : "Person",
+    "description" : "Description",
+    "version" : "1.0.0",
+    "owner" : {
+      "id" : "l.brusco@crif.com",
+      "name" : "Lorenzo Brusco"
+    }
+  },
+  "interfaceComponents" : {
+    "inputPorts" : [ ],
+    "outputPorts" : [ ]
+  }
+}
